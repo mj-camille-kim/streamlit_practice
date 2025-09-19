@@ -6,6 +6,8 @@ st.write("""
 Hello *world!*
 """)
 
+st.write("Hello World !!!")
+
 df = pd.read_csv("./data/my_data.csv", parse_dates=["date"])
 df = df.set_index("date")
 st.line_chart(df)
