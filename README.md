@@ -11,5 +11,6 @@ pip install -r requirements.txt
 ```
 streamlit run ./app.py
 ```
-웹브라우저에서 http://localhost:8501 에 접속해서 결과를
-확인해보세요!
+웹브라우저에서 http://localhost:8501 에 접속해서 결과를 확인해보세요!
+
+감사합니다.
